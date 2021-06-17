@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* [Profile (For now)](id4thomas.github.io)
+* [Profile (For now)](https://id4thomas.github.io)
 * [Blog](https://id4thomas.tistory.com)
