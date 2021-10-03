@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 * [Profile (For now)](https://id4thomas.notion.site/Youngrok-Song-8ed29d2f904549efa60988314d0a2045)
-* [Blog](https://id4thomas.tistory.com)
+* [Blog - Tistory](https://id4thomas.tistory.com)
+* [Blog - Medium](https://id2thomas.medium.com)
